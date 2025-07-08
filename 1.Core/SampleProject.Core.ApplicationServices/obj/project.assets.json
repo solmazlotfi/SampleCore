@@ -1,48 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {
-      "SampleProject.Core.Contract/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "SampleProject.Core.Domain": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/SampleProject.Core.Contract.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/SampleProject.Core.Contract.dll": {}
-        }
-      },
-      "SampleProject.Core.Domain/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/SampleProject.Core.Domain.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/SampleProject.Core.Domain.dll": {}
-        }
-      }
-    }
+    "net6.0": {}
   },
-  "libraries": {
-    "SampleProject.Core.Contract/1.0.0": {
-      "type": "project",
-      "path": "../SampleProject.Core.Contract/SampleProject.Core.Contract.csproj",
-      "msbuildProject": "../SampleProject.Core.Contract/SampleProject.Core.Contract.csproj"
-    },
-    "SampleProject.Core.Domain/1.0.0": {
-      "type": "project",
-      "path": "../SampleProject.Core.Domain/SampleProject.Core.Domain.csproj",
-      "msbuildProject": "../SampleProject.Core.Domain/SampleProject.Core.Domain.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": [
-      "SampleProject.Core.Contract >= 1.0.0"
-    ]
+    "net6.0": []
   },
   "packageFolders": {
     "C:\\Users\\Hp\\.nuget\\packages\\": {}
@@ -50,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\project\\SampleProject\\SampleProject\\1.Core\\SampleProject.Core.ApplicationServices\\SampleProject.Core.ApplicationServices.csproj",
+      "projectUniqueName": "C:\\Users\\Hp\\source\\repos\\SampleCore\\1.Core\\SampleProject.Core.ApplicationServices\\SampleProject.Core.ApplicationServices.csproj",
       "projectName": "SampleProject.Core.ApplicationServices",
-      "projectPath": "D:\\project\\SampleProject\\SampleProject\\1.Core\\SampleProject.Core.ApplicationServices\\SampleProject.Core.ApplicationServices.csproj",
+      "projectPath": "C:\\Users\\Hp\\source\\repos\\SampleCore\\1.Core\\SampleProject.Core.ApplicationServices\\SampleProject.Core.ApplicationServices.csproj",
       "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-      "outputPath": "D:\\project\\SampleProject\\SampleProject\\1.Core\\SampleProject.Core.ApplicationServices\\obj\\",
+      "outputPath": "C:\\Users\\Hp\\source\\repos\\SampleCore\\1.Core\\SampleProject.Core.ApplicationServices\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -70,11 +33,7 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {
-            "D:\\project\\SampleProject\\SampleProject\\1.Core\\SampleProject.Core.Contract\\SampleProject.Core.Contract.csproj": {
-              "projectPath": "D:\\project\\SampleProject\\SampleProject\\1.Core\\SampleProject.Core.Contract\\SampleProject.Core.Contract.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

@@ -1,29 +1,12 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {
-      "SampleProject.Core.Domain/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/SampleProject.Core.Domain.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/SampleProject.Core.Domain.dll": {}
-        }
-      }
-    }
+    "net6.0": {}
   },
-  "libraries": {
-    "SampleProject.Core.Domain/1.0.0": {
-      "type": "project",
-      "path": "../SampleProject.Core.Domain/SampleProject.Core.Domain.csproj",
-      "msbuildProject": "../SampleProject.Core.Domain/SampleProject.Core.Domain.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
     "net6.0": [
-      "SampleProject.Core.Domain >= 1.0.0"
+      "C:\\Users\\Hp\\source\\repos\\SampleCore\\1.Core\\SampleProject.Core.Domain\\SampleProject.Core.Domain.csproj"
     ]
   },
   "packageFolders": {
@@ -32,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\project\\SampleProject\\SampleProject\\1.Core\\SampleProject.Core.Contract\\SampleProject.Core.Contract.csproj",
+      "projectUniqueName": "C:\\Users\\Hp\\source\\repos\\SampleCore\\1.Core\\SampleProject.Core.Contract\\SampleProject.Core.Contract.csproj",
       "projectName": "SampleProject.Core.Contract",
-      "projectPath": "D:\\project\\SampleProject\\SampleProject\\1.Core\\SampleProject.Core.Contract\\SampleProject.Core.Contract.csproj",
+      "projectPath": "C:\\Users\\Hp\\source\\repos\\SampleCore\\1.Core\\SampleProject.Core.Contract\\SampleProject.Core.Contract.csproj",
       "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-      "outputPath": "D:\\project\\SampleProject\\SampleProject\\1.Core\\SampleProject.Core.Contract\\obj\\",
+      "outputPath": "C:\\Users\\Hp\\Source\\Repos\\SampleCore\\1.Core\\SampleProject.Core.Contract\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +36,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\project\\SampleProject\\SampleProject\\1.Core\\SampleProject.Core.Domain\\SampleProject.Core.Domain.csproj": {
-              "projectPath": "D:\\project\\SampleProject\\SampleProject\\1.Core\\SampleProject.Core.Domain\\SampleProject.Core.Domain.csproj"
+            "C:\\Users\\Hp\\source\\repos\\SampleCore\\1.Core\\SampleProject.Core.Domain\\SampleProject.Core.Domain.csproj": {
+              "projectPath": "C:\\Users\\Hp\\source\\repos\\SampleCore\\1.Core\\SampleProject.Core.Domain\\SampleProject.Core.Domain.csproj"
             }
           }
         }
@@ -87,5 +70,16 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\Hp\\source\\repos\\SampleCore\\1.Core\\SampleProject.Core.Domain\\SampleProject.Core.Domain.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\Hp\\source\\repos\\SampleCore\\1.Core\\SampleProject.Core.Domain\\SampleProject.Core.Domain.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }

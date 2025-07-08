@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "zOPeAqsW3vzzKPp5qxviIxBwZ5pIxKMOqfsx1OET/oaiTN8QFREKNfhJZlEnB8bw2mx1DNOL2LCGpez1CcMucA==",
-  "success": true,
-  "projectFilePath": "D:\\project\\SampleProject\\SampleProject\\1.Core\\SampleProject.Core.Contract\\SampleProject.Core.Contract.csproj",
+  "dgSpecHash": "D95LxdYA9WDaxeinzMA4s7m+CR7miqIQcslS+SM2f0qzDNC/BFHzve3jzeEH2N82cxD5Dz0Idf2yQbtOtFk/kw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Hp\\source\\repos\\SampleCore\\1.Core\\SampleProject.Core.Contract\\SampleProject.Core.Contract.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\Hp\\source\\repos\\SampleCore\\1.Core\\SampleProject.Core.Domain\\SampleProject.Core.Domain.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\Hp\\source\\repos\\SampleCore\\1.Core\\SampleProject.Core.Domain\\SampleProject.Core.Domain.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }

@@ -15,3 +15,6 @@ D:\project\SampleProject\SampleProject\1.Core\SampleProject.Core.ApplicationServ
 D:\project\SampleProject\SampleProject\1.Core\SampleProject.Core.ApplicationServices\obj\Debug\net6.0\refint\SampleProject.Core.ApplicationServices.dll
 D:\project\SampleProject\SampleProject\1.Core\SampleProject.Core.ApplicationServices\obj\Debug\net6.0\SampleProject.Core.ApplicationServices.pdb
 D:\project\SampleProject\SampleProject\1.Core\SampleProject.Core.ApplicationServices\obj\Debug\net6.0\ref\SampleProject.Core.ApplicationServices.dll
+C:\Users\Hp\source\repos\SampleCore\1.Core\SampleProject.Core.ApplicationServices\obj\Debug\net6.0\SampleProject.Core.ApplicationServices.dll
+C:\Users\Hp\source\repos\SampleCore\1.Core\SampleProject.Core.ApplicationServices\obj\Debug\net6.0\refint\SampleProject.Core.ApplicationServices.dll
+C:\Users\Hp\source\repos\SampleCore\1.Core\SampleProject.Core.ApplicationServices\obj\Debug\net6.0\SampleProject.Core.ApplicationServices.pdb

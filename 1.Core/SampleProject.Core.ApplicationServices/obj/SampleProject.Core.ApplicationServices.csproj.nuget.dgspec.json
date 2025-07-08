@@ -1,135 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\project\\SampleProject\\SampleProject\\1.Core\\SampleProject.Core.ApplicationServices\\SampleProject.Core.ApplicationServices.csproj": {}
+    "C:\\Users\\Hp\\source\\repos\\SampleCore\\1.Core\\SampleProject.Core.ApplicationServices\\SampleProject.Core.ApplicationServices.csproj": {}
   },
   "projects": {
-    "D:\\project\\SampleProject\\SampleProject\\1.Core\\SampleProject.Core.ApplicationServices\\SampleProject.Core.ApplicationServices.csproj": {
+    "C:\\Users\\Hp\\source\\repos\\SampleCore\\1.Core\\SampleProject.Core.ApplicationServices\\SampleProject.Core.ApplicationServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\project\\SampleProject\\SampleProject\\1.Core\\SampleProject.Core.ApplicationServices\\SampleProject.Core.ApplicationServices.csproj",
+        "projectUniqueName": "C:\\Users\\Hp\\source\\repos\\SampleCore\\1.Core\\SampleProject.Core.ApplicationServices\\SampleProject.Core.ApplicationServices.csproj",
         "projectName": "SampleProject.Core.ApplicationServices",
-        "projectPath": "D:\\project\\SampleProject\\SampleProject\\1.Core\\SampleProject.Core.ApplicationServices\\SampleProject.Core.ApplicationServices.csproj",
+        "projectPath": "C:\\Users\\Hp\\source\\repos\\SampleCore\\1.Core\\SampleProject.Core.ApplicationServices\\SampleProject.Core.ApplicationServices.csproj",
         "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-        "outputPath": "D:\\project\\SampleProject\\SampleProject\\1.Core\\SampleProject.Core.ApplicationServices\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net6.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
-            "projectReferences": {
-              "D:\\project\\SampleProject\\SampleProject\\1.Core\\SampleProject.Core.Contract\\SampleProject.Core.Contract.csproj": {
-                "projectPath": "D:\\project\\SampleProject\\SampleProject\\1.Core\\SampleProject.Core.Contract\\SampleProject.Core.Contract.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "D:\\project\\SampleProject\\SampleProject\\1.Core\\SampleProject.Core.Contract\\SampleProject.Core.Contract.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "D:\\project\\SampleProject\\SampleProject\\1.Core\\SampleProject.Core.Contract\\SampleProject.Core.Contract.csproj",
-        "projectName": "SampleProject.Core.Contract",
-        "projectPath": "D:\\project\\SampleProject\\SampleProject\\1.Core\\SampleProject.Core.Contract\\SampleProject.Core.Contract.csproj",
-        "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-        "outputPath": "D:\\project\\SampleProject\\SampleProject\\1.Core\\SampleProject.Core.Contract\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net6.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
-            "projectReferences": {
-              "D:\\project\\SampleProject\\SampleProject\\1.Core\\SampleProject.Core.Domain\\SampleProject.Core.Domain.csproj": {
-                "projectPath": "D:\\project\\SampleProject\\SampleProject\\1.Core\\SampleProject.Core.Domain\\SampleProject.Core.Domain.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "D:\\project\\SampleProject\\SampleProject\\1.Core\\SampleProject.Core.Domain\\SampleProject.Core.Domain.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "D:\\project\\SampleProject\\SampleProject\\1.Core\\SampleProject.Core.Domain\\SampleProject.Core.Domain.csproj",
-        "projectName": "SampleProject.Core.Domain",
-        "projectPath": "D:\\project\\SampleProject\\SampleProject\\1.Core\\SampleProject.Core.Domain\\SampleProject.Core.Domain.csproj",
-        "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-        "outputPath": "D:\\project\\SampleProject\\SampleProject\\1.Core\\SampleProject.Core.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Hp\\source\\repos\\SampleCore\\1.Core\\SampleProject.Core.ApplicationServices\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
