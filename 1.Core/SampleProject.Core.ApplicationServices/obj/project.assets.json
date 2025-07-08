@@ -1,0 +1,109 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "SampleProject.Core.Contract/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "SampleProject.Core.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SampleProject.Core.Contract.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SampleProject.Core.Contract.dll": {}
+        }
+      },
+      "SampleProject.Core.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/SampleProject.Core.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SampleProject.Core.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SampleProject.Core.Contract/1.0.0": {
+      "type": "project",
+      "path": "../SampleProject.Core.Contract/SampleProject.Core.Contract.csproj",
+      "msbuildProject": "../SampleProject.Core.Contract/SampleProject.Core.Contract.csproj"
+    },
+    "SampleProject.Core.Domain/1.0.0": {
+      "type": "project",
+      "path": "../SampleProject.Core.Domain/SampleProject.Core.Domain.csproj",
+      "msbuildProject": "../SampleProject.Core.Domain/SampleProject.Core.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "SampleProject.Core.Contract >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Hp\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\project\\SampleProject\\SampleProject\\1.Core\\SampleProject.Core.ApplicationServices\\SampleProject.Core.ApplicationServices.csproj",
+      "projectName": "SampleProject.Core.ApplicationServices",
+      "projectPath": "D:\\project\\SampleProject\\SampleProject\\1.Core\\SampleProject.Core.ApplicationServices\\SampleProject.Core.ApplicationServices.csproj",
+      "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
+      "outputPath": "D:\\project\\SampleProject\\SampleProject\\1.Core\\SampleProject.Core.ApplicationServices\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "D:\\project\\SampleProject\\SampleProject\\1.Core\\SampleProject.Core.Contract\\SampleProject.Core.Contract.csproj": {
+              "projectPath": "D:\\project\\SampleProject\\SampleProject\\1.Core\\SampleProject.Core.Contract\\SampleProject.Core.Contract.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

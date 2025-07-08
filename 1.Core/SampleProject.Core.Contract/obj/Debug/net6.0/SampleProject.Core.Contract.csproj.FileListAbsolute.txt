@@ -1,0 +1,15 @@
+D:\project\SampleProject\SampleProject\1.Core\SampleProject.Core.Contract\bin\Debug\net6.0\SampleProject.Core.Contract.deps.json
+D:\project\SampleProject\SampleProject\1.Core\SampleProject.Core.Contract\bin\Debug\net6.0\SampleProject.Core.Contract.dll
+D:\project\SampleProject\SampleProject\1.Core\SampleProject.Core.Contract\bin\Debug\net6.0\SampleProject.Core.Contract.pdb
+D:\project\SampleProject\SampleProject\1.Core\SampleProject.Core.Contract\bin\Debug\net6.0\SampleProject.Core.Domain.dll
+D:\project\SampleProject\SampleProject\1.Core\SampleProject.Core.Contract\bin\Debug\net6.0\SampleProject.Core.Domain.pdb
+D:\project\SampleProject\SampleProject\1.Core\SampleProject.Core.Contract\obj\Debug\net6.0\SampleProject.Core.Contract.csproj.AssemblyReference.cache
+D:\project\SampleProject\SampleProject\1.Core\SampleProject.Core.Contract\obj\Debug\net6.0\SampleProject.Core.Contract.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\SampleProject\SampleProject\1.Core\SampleProject.Core.Contract\obj\Debug\net6.0\SampleProject.Core.Contract.AssemblyInfoInputs.cache
+D:\project\SampleProject\SampleProject\1.Core\SampleProject.Core.Contract\obj\Debug\net6.0\SampleProject.Core.Contract.AssemblyInfo.cs
+D:\project\SampleProject\SampleProject\1.Core\SampleProject.Core.Contract\obj\Debug\net6.0\SampleProject.Core.Contract.csproj.CoreCompileInputs.cache
+D:\project\SampleProject\SampleProject\1.Core\SampleProject.Core.Contract\obj\Debug\net6.0\SampleProject.Core.Contract.csproj.CopyComplete
+D:\project\SampleProject\SampleProject\1.Core\SampleProject.Core.Contract\obj\Debug\net6.0\SampleProject.Core.Contract.dll
+D:\project\SampleProject\SampleProject\1.Core\SampleProject.Core.Contract\obj\Debug\net6.0\refint\SampleProject.Core.Contract.dll
+D:\project\SampleProject\SampleProject\1.Core\SampleProject.Core.Contract\obj\Debug\net6.0\SampleProject.Core.Contract.pdb
+D:\project\SampleProject\SampleProject\1.Core\SampleProject.Core.Contract\obj\Debug\net6.0\ref\SampleProject.Core.Contract.dll
